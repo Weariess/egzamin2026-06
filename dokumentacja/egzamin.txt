@@ -1,0 +1,3 @@
+System operacyjny: windows 11
+Nazwy środowisk programistycznych: VS code, Visual Studio
+Nazwy języków programowania: React.js, C#
